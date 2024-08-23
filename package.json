@@ -5,7 +5,7 @@
     "bundleDependencies": [],
     "deprecated": false,
     "description": "A fun and practical NPM data storage module. Store, access, and manage your data as if it's in a 'refrigerator.' Compatible with JSON files and SQLite databases. Provides multilingual error messages for easier use and offers various operations on your data.",
-    "homepage": "",
+    "homepage": "https://github.com/clydeofficial/buzdolabi",
     "keywords": [
         "buzdolabi",
         "ayrandb",
@@ -30,7 +30,7 @@
     "name": "buzdolabi",
     "repository": {
         "type": "git",
-        "url": ""
+        "url": "git+https://github.com/clydeofficial/buzdolabi.git"
     },
     "version": "1.0.0",
     "dependencies": {
