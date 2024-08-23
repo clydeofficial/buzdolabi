@@ -1,0 +1,16 @@
+{
+  "ERROR_FETCHING_VERSION": "Son sürüm alınırken hata oluştu.",
+  "ERROR_INDEX_OUT_OF_BOUNDS": "İndeks sınırların dışında.",
+  "ERROR_PATH_NOT_FOUND": "Yol bulunamadı.",
+  "SUCCESS_DELETE": "Yol başarıyla silindi.",
+  "SUCCESS_CLEAR": "Tüm veriler temizlendi.",
+  "ERROR_NOT_A_NUMBER": "Değer bir sayı değil.",
+  "ERROR_NOT_AN_OBJECT": "Değer bir nesne değil.",
+  "ERROR_NOT_AN_ARRAY": "Değer bir dizi değil.",
+  "ERROR_NOT_AN_ARRAY_OR_OBJECT": "Değer ne bir dizi ne de bir nesne.",
+  "ERROR_KEY_NOT_FOUND": "Anahtar bulunamadı.",
+  "ERROR_SQLITE_CONNECTION": "SQLite veritabanı açılırken hata oluştu:",
+  "SUCCESS_SQLITE_CONNECTION": "SQLite veritabanına bağlandı.",
+  "ERROR_SQLITE_NOT_CONNECTED": "SQLite veritabanı bağlantısı kurulmamış.",
+  "ERROR_FILE_NOT_FOUND": "Dosya bulunamadı."
+}

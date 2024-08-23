@@ -1,0 +1,16 @@
+{
+  "ERROR_FETCHING_VERSION": "Erreur lors de la récupération de la dernière version.",
+  "ERROR_INDEX_OUT_OF_BOUNDS": "Index hors limites.",
+  "ERROR_PATH_NOT_FOUND": "Chemin non trouvé.",
+  "SUCCESS_DELETE": "Chemin supprimé avec succès.",
+  "SUCCESS_CLEAR": "Toutes les données ont été effacées.",
+  "ERROR_NOT_A_NUMBER": "La valeur n'est pas un nombre.",
+  "ERROR_NOT_AN_OBJECT": "La valeur n'est pas un objet.",
+  "ERROR_NOT_AN_ARRAY": "La valeur n'est pas un tableau.",
+  "ERROR_NOT_AN_ARRAY_OR_OBJECT": "La valeur n'est ni un tableau ni un objet.",
+  "ERROR_KEY_NOT_FOUND": "Clé non trouvée.",
+  "ERROR_SQLITE_CONNECTION": "Erreur lors de l'ouverture de la base de données SQLite:",
+  "SUCCESS_SQLITE_CONNECTION": "Connecté à la base de données SQLite.",
+  "ERROR_SQLITE_NOT_CONNECTED": "Aucune connexion à la base de données SQLite établie.",
+  "ERROR_FILE_NOT_FOUND": "Fichier non trouvé."
+}

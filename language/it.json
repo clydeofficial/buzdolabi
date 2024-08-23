@@ -1,0 +1,16 @@
+{
+  "ERROR_FETCHING_VERSION": "Errore nel recupero dell'ultima versione.",
+  "ERROR_INDEX_OUT_OF_BOUNDS": "Indice fuori dai limiti.",
+  "ERROR_PATH_NOT_FOUND": "Percorso non trovato.",
+  "SUCCESS_DELETE": "Percorso eliminato con successo.",
+  "SUCCESS_CLEAR": "Tutti i dati sono stati cancellati.",
+  "ERROR_NOT_A_NUMBER": "Il valore non è un numero.",
+  "ERROR_NOT_AN_OBJECT": "Il valore non è un oggetto.",
+  "ERROR_NOT_AN_ARRAY": "Il valore non è un array.",
+  "ERROR_NOT_AN_ARRAY_OR_OBJECT": "Il valore non è né un array né un oggetto.",
+  "ERROR_KEY_NOT_FOUND": "Chiave non trovata.",
+  "ERROR_SQLITE_CONNECTION": "Errore nell'apertura del database SQLite:",
+  "SUCCESS_SQLITE_CONNECTION": "Connesso al database SQLite.",
+  "ERROR_SQLITE_NOT_CONNECTED": "Nessuna connessione al database SQLite stabilita.",
+  "ERROR_FILE_NOT_FOUND": "File non trovato."
+}

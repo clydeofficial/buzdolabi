@@ -1,0 +1,16 @@
+{
+  "ERROR_FETCHING_VERSION": "Error fetching latest version.",
+  "ERROR_INDEX_OUT_OF_BOUNDS": "Index out of bounds.",
+  "ERROR_PATH_NOT_FOUND": "Path not found.",
+  "SUCCESS_DELETE": "Path successfully deleted.",
+  "SUCCESS_CLEAR": "All data cleared.",
+  "ERROR_NOT_A_NUMBER": "Value is not a number.",
+  "ERROR_NOT_AN_OBJECT": "Value is not an object.",
+  "ERROR_NOT_AN_ARRAY": "Value is not an array.",
+  "ERROR_NOT_AN_ARRAY_OR_OBJECT": "Value is not an array or object.",
+  "ERROR_KEY_NOT_FOUND": "Key not found.",
+  "ERROR_SQLITE_CONNECTION": "Error opening SQLite database:",
+  "SUCCESS_SQLITE_CONNECTION": "Connected to SQLite database.",
+  "ERROR_SQLITE_NOT_CONNECTED": "No SQLite database connection established.",
+  "ERROR_FILE_NOT_FOUND": "File not found."
+}

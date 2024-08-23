@@ -1,0 +1,41 @@
+{
+    "author": {
+        "name": "Clyde"
+    },
+    "bundleDependencies": [],
+    "deprecated": false,
+    "description": "A fun and practical NPM data storage module. Store, access, and manage your data as if it's in a 'refrigerator.' Compatible with JSON files and SQLite databases. Provides multilingual error messages for easier use and offers various operations on your data.",
+    "homepage": "",
+    "keywords": [
+        "buzdolabi",
+        "ayrandb",
+        "ayran",
+        "buzdolabidb",
+        "json",
+        "jsondb",
+        "yaml",
+        "yamldb",
+        "local",
+        "localstorage",
+        "local storage",
+        "node-json-db",
+        "db",
+        "mongo",
+        "mongoose",
+        "mongodb",
+        "database"
+    ],
+    "license": "CC BY-NC-SA 4.0",
+    "main": "index.js",
+    "name": "buzdolabi",
+    "repository": {
+        "type": "git",
+        "url": ""
+    },
+    "version": "1.0.0",
+    "dependencies": {
+        "fs": "^0.0.1-security",
+        "path": "^0.12.7",
+        "sqlite3": "^5.1.7"
+    }
+}
