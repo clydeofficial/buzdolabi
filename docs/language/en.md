@@ -1,7 +1,5 @@
 # Buzdolabi
 
-![Download](https://img.shields.io/npm/dt/buzdolabi.svg?style=flat-square) ![Download](https://img.shields.io/npm/dm/buzdolabi.svg?style=flat-square) ![Download](https://img.shields.io/npm/dw/buzdolabi.svg?style=flat-square) ![License](https://img.shields.io/npm/l/buzdolabi.svg?style=flat-square)
-
 **Buzdolabi** is a powerful npm module designed for advanced data management. It allows you to store, manipulate, and persist data efficiently. The module supports operations such as setting, getting, and deleting data, working with complex data structures, and saving/loading data to and from JSON files or an SQLite database.
 
 ## Installation
